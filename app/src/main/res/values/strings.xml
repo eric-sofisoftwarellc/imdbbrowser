@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IMDB Browser</string>
+    <string name="enter_query">Enter query</string>
+    <string name="poster">poster</string>
+</resources>
